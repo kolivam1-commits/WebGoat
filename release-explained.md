@@ -20,7 +20,7 @@ on:
 With the pom at `2026.2-SNAPSHOT`, the next release is `v2026.2`:
 
 ```bash
-# 1. main is green and everything you want in the release is merged
+# 1. main is green and everything you want in the release is merged 
 
 # 2. add a "## Version 2026.2" section to RELEASE_NOTES.md
 
